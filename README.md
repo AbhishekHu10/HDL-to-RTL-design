@@ -1,1 +1,1 @@
-# HDL-to-RTL-disign
+# HDL-to-RTL-design
